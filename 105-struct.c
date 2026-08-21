@@ -1,5 +1,5 @@
 #include<stdio.h>
-#pragma pack(2)
+#pragma pack(16)
 struct s {
 	int a;     // 规则1     4   规则2    4 
 	double b;  // 规则1     8   规则2    8 
