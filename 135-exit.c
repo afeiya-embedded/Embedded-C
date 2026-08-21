@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char const *argv[])
+{
+    printf("hello world\n");
+    exit(0); // 结束程序
+    printf("hello world\n");
+    return 0;
+}
